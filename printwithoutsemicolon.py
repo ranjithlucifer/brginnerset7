@@ -1,0 +1,2 @@
+lucifer=input()
+print(lucifer)
